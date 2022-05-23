@@ -19,7 +19,7 @@ return c;
 } else if (arr[m] > value) {
 n = m;
 } else {
-b = m + 1;
+c = m + 1;
 }
 }
 return 0; // если ничего не найдено
