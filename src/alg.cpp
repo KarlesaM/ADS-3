@@ -17,7 +17,7 @@ c++;
 }
 return c;
 } else if (arr[m] > value) {
-x = m;
+n = m;
 } else {
 b = m + 1;
 }
